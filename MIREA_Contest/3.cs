@@ -29,7 +29,7 @@ public class _3
     {
         _3 sol = new _3();
 
-        int[] prices1 = { 7, 1, 5, 3, 6, 4 };
-        Console.WriteLine(sol.MaxProfit(prices1));
+        int[] prices = { 7, 1, 5, 3, 6, 4 };
+        Console.WriteLine(sol.MaxProfit(prices));
     }
 }*/

@@ -41,10 +41,6 @@
     {
         _1 sol = new _1();
 
-        Console.WriteLine(sol.IsValid("()"));       // true
-        Console.WriteLine(sol.IsValid("()[]{}"));   // true
-        Console.WriteLine(sol.IsValid("(]"));       // false
-        Console.WriteLine(sol.IsValid("([])"));     // true
-        Console.WriteLine(sol.IsValid("([)]"));     // false
+        Console.WriteLine(sol.IsValid("()[]{}"));
     }
 }*/
