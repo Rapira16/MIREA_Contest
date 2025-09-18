@@ -19,7 +19,7 @@ public class RecentCounter
     }
 }
 
-class Program
+/*class Program
 {
     static void Main()
     {
@@ -30,4 +30,4 @@ class Program
         Console.WriteLine(recentCounter.Ping(3001)); // Ожидаем: 3
         Console.WriteLine(recentCounter.Ping(3002)); // Ожидаем: 3
     }
-}
+}*/

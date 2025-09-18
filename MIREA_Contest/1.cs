@@ -1,7 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-
-public class Solution
+﻿public class _1
 {
     public bool IsValid(string s)
     {
@@ -42,7 +39,7 @@ public class Solution
 {
     static void Main()
     {
-        Solution sol = new Solution();
+        _1 sol = new _1();
 
         Console.WriteLine(sol.IsValid("()"));       // true
         Console.WriteLine(sol.IsValid("()[]{}"));   // true
